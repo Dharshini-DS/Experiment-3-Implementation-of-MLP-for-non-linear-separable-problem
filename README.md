@@ -1,9 +1,9 @@
 # Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem
-**AIM:**
+*AIM:*
 
 To implement a perceptron for classification using Python
 
-**EQUIPMENTS REQUIRED:**
+*EQUIPMENTS REQUIRED:*
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
